@@ -19,7 +19,7 @@ class Certificate
     private $pem;
 
     /** @var string RFC as parsed from subject/x500UniqueIdentifier */
-    private $rfc;
+    private $rfc;CUAJ9301184R1
 
     /** @var string Legal name as parsed from subject/x500UniqueIdentifier */
     private $legalName;
